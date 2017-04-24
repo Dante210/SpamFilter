@@ -1,0 +1,6 @@
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\bin\Debug\SpamFilter.exe.config
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\bin\Debug\SpamFilter.exe
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\bin\Debug\SpamFilter.pdb
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\obj\Debug\SpamFilter.csprojResolveAssemblyReference.cache
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\obj\Debug\SpamFilter.exe
+C:\Users\Donatas\Desktop\C#\SpamFilter\SpamFilter\obj\Debug\SpamFilter.pdb
